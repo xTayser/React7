@@ -14,6 +14,8 @@ const CartItem = ({ onContinueShopping }) => {
 
   const handleContinueShopping = (e) => {
    
+      alert('Functionality to be added for future reference');
+
   };
 
 
